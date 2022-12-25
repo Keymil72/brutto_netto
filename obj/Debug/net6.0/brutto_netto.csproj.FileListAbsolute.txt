@@ -1,0 +1,15 @@
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\bin\Debug\net6.0\brutto_netto.exe
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\bin\Debug\net6.0\brutto_netto.deps.json
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\bin\Debug\net6.0\brutto_netto.runtimeconfig.json
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\bin\Debug\net6.0\brutto_netto.dll
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\bin\Debug\net6.0\brutto_netto.pdb
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\obj\Debug\net6.0\brutto_netto.csproj.AssemblyReference.cache
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\obj\Debug\net6.0\brutto_netto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\obj\Debug\net6.0\brutto_netto.AssemblyInfoInputs.cache
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\obj\Debug\net6.0\brutto_netto.AssemblyInfo.cs
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\obj\Debug\net6.0\brutto_netto.csproj.CoreCompileInputs.cache
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\obj\Debug\net6.0\brutto_netto.dll
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\obj\Debug\net6.0\refint\brutto_netto.dll
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\obj\Debug\net6.0\brutto_netto.pdb
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\obj\Debug\net6.0\brutto_netto.genruntimeconfig.cache
+C:\Users\kamip\source\repos\brutto_netto\brutto_netto\obj\Debug\net6.0\ref\brutto_netto.dll
